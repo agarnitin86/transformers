@@ -1,0 +1,3 @@
+- Code to generate embeddings using BERT forward pass [Here](https://github.com/agarnitin86/transformers/blob/main/bert_embedding_classifier.ipynb)
+- Code to finetune BERT using Trainer  [Here](https://github.com/agarnitin86/transformers/blob/main/bert_fine_tune_using_trainer.ipynb)
+- Code to finetune BERT using Native pytorch [Here](https://github.com/agarnitin86/transformers/blob/main/bert_fine_tune_native_pytorch.ipynb)
